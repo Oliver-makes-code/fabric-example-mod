@@ -1,4 +1,7 @@
-# Fabric Example Mod
+# Quilt Example Mod
+Forked from Fabric Example Mod to use Quilt tools
+
+**Note: This is unofficial and you're not likely to get support for this.**
 
 ## Setup
 
