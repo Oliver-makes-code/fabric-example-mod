@@ -27,7 +27,7 @@
   ],
 
   "depends": {
-    "quilt_loader": ">=0.11.3",
+    "quilt_loader": "*",
     "qsl": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
