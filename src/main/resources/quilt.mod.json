@@ -20,7 +20,7 @@
 
     "environment": "*",
     "entrypoints": {
-      "main": [
+      "init": [
         "org.quiltmc.example.ExampleMod"
       ]
     },
