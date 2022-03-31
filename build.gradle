@@ -1,5 +1,5 @@
 plugins {
-	id 'org.quiltmc.quilt-loom' version '0.11-SNAPSHOT'
+	id 'org.quiltmc.loom' version '0.11-SNAPSHOT'
 	//id 'io.github.juuxel.loom-quiltflower' version '1.6.0' // For loom 0.8-0.9, 0.11+
 	id "org.quiltmc.quilt-mappings-on-loom" version "4.0.0"
 	id 'maven-publish'
