@@ -43,7 +43,7 @@
       }
     ]
   },
-  "mixins": [
+  "mixin": [
     "modid.mixins.json"
   ]
 }
