@@ -1,4 +1,5 @@
 # Quilt Example Mod
+# An official example mod exists now, check that out instead. https://github.com/QuiltMC/quilt-example-mod
 Forked from Fabric Example Mod to use Quilt tools
 
 **Note: This is unofficial and you're not likely to get support for this.**
